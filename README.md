@@ -1,4 +1,4 @@
-**Project 3 - Employ Matplotlib and matplotlib.pyplot**
+**Project 3 - Module 3: Employ Matplotlib and matplotlib.pyplot**
 
 Complete the tasks in the Python Notebook in this repository. To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website). Also saving and exporting the project as an HTML file.
 
@@ -14,7 +14,9 @@ Create a virtual environment
 Activate the virtual environment
 Install into the active virtual environment (e.g. python -m pip install matplotlib)
 In your Python, import it (e.g. import matplotlib.pyplot as plt)
-Rubric
+
+**Rubric**
+
 Each question is worth two points:
 
 Data plotted as described by the question (1 pt)
